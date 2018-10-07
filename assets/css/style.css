@@ -9,13 +9,3 @@ body {
   background-color: #ffffff;
   font-family: 'Work Sans', sans-serif;
 }
-
-section {
-  width: 100px;
-  height: 200px;
-  margin: 10px;
-  background-color: #000;
-  position: relative;
-  overflow: hidden;
-  /* border: 1px solid red; */
-}
